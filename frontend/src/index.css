@@ -1,0 +1,43 @@
+/* GLOBAL RESET */
+
+* {
+  margin: 0;
+
+  padding: 0;
+
+  box-sizing: border-box;
+}
+
+
+/* BODY */
+
+body {
+  font-family: Inter, Arial, sans-serif;
+
+  background: #f5f6f7;
+
+  color: #17212b;
+}
+
+
+/* BUTTONS */
+
+button {
+  font-family: inherit;
+
+  cursor: pointer;
+}
+
+
+/* INPUTS */
+
+input {
+  font-family: inherit;
+}
+
+
+/* LINKS */
+
+a {
+  text-decoration: none;
+}
